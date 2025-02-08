@@ -25,7 +25,7 @@ const ItemComponent = ({
   return (
     <ListItem
       id={`list-item-${id}`}
-      className="list"
+      className="item"
       sx={{
         backgroundColor: isSelected ? 'rgba(26, 26, 239, 0.51)' : 'white',
       }}

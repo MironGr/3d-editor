@@ -1,9 +1,9 @@
-.list {
+.item {
   display: "flex";
   justify-content: "space-between";
 }
 
-.list:hover {
+.item:hover {
   background-color: 'rgba(26, 26, 239, 0.22)';
   cursor: 'pointer',
 }

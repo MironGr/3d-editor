@@ -25,7 +25,7 @@ root.render(
   <React.StrictMode>
     <ThemeProvider theme={theme}>
       <CssBaseline />
-      <BrowserRouter>
+      <BrowserRouter basename="/3d-editor">
         <Routes>
           <Route path="/*" element={<App />} />
           <Route path="*" element={<Navigate to="/" />} />
