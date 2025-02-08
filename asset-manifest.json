@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/3d-editor/static/css/main.9af92869.css",
+    "main.js": "/3d-editor/static/js/main.765ca810.js",
+    "index.html": "/3d-editor/index.html",
+    "main.9af92869.css.map": "/3d-editor/static/css/main.9af92869.css.map",
+    "main.765ca810.js.map": "/3d-editor/static/js/main.765ca810.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9af92869.css",
+    "static/js/main.765ca810.js"
+  ]
+}
