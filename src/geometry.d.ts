@@ -8,4 +8,5 @@ declare type TPrimitive = {
   length: number;
   initRelativePosition?: number[];
   // initRelativePosition?: number[];
+  // initRelativePosition?: number[];
 }
